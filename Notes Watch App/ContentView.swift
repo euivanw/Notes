@@ -1,26 +1,18 @@
-//
-//  ContentView.swift
-//  Notes Watch App
-//
-//  Created by Ivan Wilhelm (ele/dele) on 15/06/23.
-//
-
 import SwiftUI
 
+// MARK: - VIEW
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
+  // MARK: - BODY
+  var body: some View {
+    Text("Hello, world!")
+  } //: Body
 }
 
+// MARK: - PREVIEW
 struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+  static var previews: some View {
+    ContentView()
+  }
 }
+
+// MARK: - END
