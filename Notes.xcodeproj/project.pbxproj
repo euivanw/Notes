@@ -16,6 +16,7 @@
 		0611D23F2A40C58000E7110E /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0611D23E2A40C58000E7110E /* DetailView.swift */; };
 		0611D2412A40C8A200E7110E /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0611D2402A40C8A200E7110E /* CreditsView.swift */; };
 		0611D2442A40C90B00E7110E /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0611D2432A40C90B00E7110E /* HeaderView.swift */; };
+		0611D2462A40CD5D00E7110E /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0611D2452A40CD5D00E7110E /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0611D23E2A40C58000E7110E /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		0611D2402A40C8A200E7110E /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		0611D2432A40C90B00E7110E /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		0611D2452A40CD5D00E7110E /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				06109F642A3B9C7C007C95F4 /* ContentView.swift */,
 				0611D23E2A40C58000E7110E /* DetailView.swift */,
 				0611D2402A40C8A200E7110E /* CreditsView.swift */,
+				0611D2452A40CD5D00E7110E /* SettingsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				0611D23F2A40C58000E7110E /* DetailView.swift in Sources */,
 				06109F632A3B9C7C007C95F4 /* NotesApp.swift in Sources */,
 				0611D2412A40C8A200E7110E /* CreditsView.swift in Sources */,
+				0611D2462A40CD5D00E7110E /* SettingsView.swift in Sources */,
 				0611D2442A40C90B00E7110E /* HeaderView.swift in Sources */,
 				06109F772A3B9F7E007C95F4 /* Note.swift in Sources */,
 			);
